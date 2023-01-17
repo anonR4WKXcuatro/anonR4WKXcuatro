@@ -2,9 +2,6 @@
 ## Hey 👋, I'm Dexter Manlangit!  
   
 
-<a href="https://github.com/anonR4WKXcuatro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/dexter-manlangit-4nwrwcakx/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -15,13 +12,11 @@
 ### Glad to see you here!  
 As a beginner software developer, I am eager to learn and grow in the field of software development. While I am new to the industry, I am confident in my ability to learn quickly and make valuable contributions to any team. I am excited to continue developing my skills and gaining hands-on experience through various projects and assignments.  
   
-
 <br/>  
-
 
 ## Currently Learning  
 - ASP.NET Core
-- Entity Framework
+- Entity Framework Core
 - LINQ
 
 <br/>  
