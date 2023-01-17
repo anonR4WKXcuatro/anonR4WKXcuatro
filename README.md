@@ -22,6 +22,7 @@ As a beginner software developer, I am eager to learn and grow in the field of s
 ## Currently Learning  
 - ASP.NET Core
 - Entity Framework
+- LINQ
 
 <br/>  
 
