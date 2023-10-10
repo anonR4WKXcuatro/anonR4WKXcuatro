@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif"  />
+ <img height="150" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="GIF Description" style="border-radius: 50%;">
 </div>
 
 ###
